@@ -45,6 +45,6 @@ public class Rectangle {
 
     @Override
     public String toString() {
-        return "Chieu dai hinh chu nhat la: "+width+", Chieu rong hinh chu nhat la: "+height;
+        return "Chieu dai hinh chu nhat la: " + width + ", Chieu rong hinh chu nhat la: " + height;
     }
 }
